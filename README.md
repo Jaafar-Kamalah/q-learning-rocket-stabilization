@@ -5,3 +5,5 @@ This project uses table-based Q-learning to control a simulated rocket with thre
 - **E** - Toggle exploration on/off
 - **M** - Toggle graphics on/off for faster simulation
 - **R** - Pause/resume simulation
+
+> Note: Created in 2025 and later uploaded to GitHub. No Git history is available as development was done locally without version control.
